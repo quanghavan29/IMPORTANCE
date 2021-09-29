@@ -1,0 +1,15 @@
+generator-jhipster-nodejs: 
+	github: https://github.com/jhipster/generator-jhipster-nodejs#readme
+	youtobe: https://www.youtube.com/watch?v=Lf6g9A76qBQ
+		 https://www.youtube.com/watch?v=5-JlfqSqg2A
+
+--Run on cmd
+B1: npm install -g generator-jhipster-nodejs
+B2: nhipster
+
+mysql online: freesqldatabase.com
+	Host: sql10.freesqldatabase.com
+	Database name: sql10435415
+	Database user: sql10435415
+	Database password: U3Bj8ka5sJ
+	Port number: 3306
